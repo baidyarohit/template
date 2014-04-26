@@ -1,9 +1,12 @@
 body {
-	color:black;
+	color:white;
 	background:white;
 	font-family:Calibri;
 	width:960px;
 	margin:auto;
+	background-image:url("http://www.userlogos.org/files/backgrounds/ArkAngel06/CarbonFiber_2.jpg");
+
+	
 }
 
 
@@ -15,7 +18,7 @@ header, main, footer {
 }
 
 header, main h1 {
-	color:black;
+	color:white;
 }
 
 a, a:visited {
@@ -28,6 +31,14 @@ a:hover {
 	text-decoration: none;
 }
 
+h1 {
+	color:white;
+}
+
+h2 {
+	color:white;
+}
+	
 h3 {
 	color:brown;
 }
